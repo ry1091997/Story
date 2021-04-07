@@ -1,0 +1,3 @@
+Hello, I am Rahul1
+if we make any changes then we can chechk it by using command "git diff chapter3.txt"
+and we can also rvert back to previeous state by using command "git checkout chapter3.txt"
